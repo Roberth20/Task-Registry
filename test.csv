@@ -1,0 +1,5 @@
+name,description,state,category,priority
+Buy fruit,There are not more fruit. I have to buy 2 Kilograms of oranges,ToDo,Home,Lower
+Work,"The banks send the statements, they must be validated",InProgress,Work,Higher
+Wash my hair,It's really dirty because last day run,Done,SelfCare,Highest
+Buy fruit,I want apples,ToDo,Home,Lower
